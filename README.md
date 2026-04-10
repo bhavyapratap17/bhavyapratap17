@@ -1,11 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Bhavya%20Pratap!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Bhavya%20Pratap!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist%20%7C%20Open%20to%20Relocate&descAlignY=50" />
 
 ## 🧠 About Me
-🎓 Integrated M.Tech — Computer Science (Computational & Data Science), **VIT Bhopal** (2022–2027)
+
+🎓 Integrated M.Tech — Computer Science (Computational & Data Science), **Vellore Institute of Technology** (2022–2027)
 
 💡 Specialising in transforming raw data into actionable business insights using **SQL, Python, Power BI & cloud platforms**
 
 🏆 **Winner — Codeverse AI/ML Hackathon** (1st out of 500+ teams)
+
 📬 [LinkedIn](https://www.linkedin.com/in/bhavyapratap17) | [GitHub](https://github.com/bhavyapratap17)
 
 ---
@@ -67,7 +69,7 @@ Interactive Power BI solution analyzing traffic density, air quality, and weathe
 ---
 
 ## 👥 Leadership
-- **VP — Vitronix Club, VIT Bhopal** (2025–2026): Led a drone-building workshop with 300+ participants
+- **VP — Vitronix Club, VIT** (2025–2026): Led a drone-building workshop with 300+ participants
 - **Operations Manager — Metaversity Club** (2025–2026): Organised a national AI hackathon with 800+ participants across India
 
 ---
