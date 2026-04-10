@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Bhavya%20Pratap!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Open%20to%20Relocate&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Bhavya%20Pratap!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Open%20to%20Relocate&descAlignY=50" />
 
 ## 🧠 About Me
 
