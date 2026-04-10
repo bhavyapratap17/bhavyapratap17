@@ -2,7 +2,9 @@
 
 ## 🧠 About Me
 🎓 Integrated M.Tech — Computer Science (Computational & Data Science), **VIT Bhopal** (2022–2027)
+
 💡 Specialising in transforming raw data into actionable business insights using **SQL, Python, Power BI & cloud platforms**
+
 🏆 **Winner — Codeverse AI/ML Hackathon** (1st out of 500+ teams)
 📬 [LinkedIn](https://www.linkedin.com/in/bhavyapratap17) | [GitHub](https://github.com/bhavyapratap17)
 
