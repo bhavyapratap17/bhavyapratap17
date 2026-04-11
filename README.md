@@ -43,7 +43,7 @@ Designed a 5-table normalised PostgreSQL schema, ingested 100K+ records, and wro
 ### 🏦 Bank Customer Churn Analysis
 Segmented 10K+ customers by tenure, balance, and geography; engineered 12 behavioural features in Python. Customers inactive 60+ days carry **3× higher churn probability** — visualised in an interactive Tableau storyboard for CRM targeting.
 
-🔗 [View Repository](https://github.com/bhavyapratap17/bank-churn-analysis)
+🔗 [View Repository](//https://github.com/bhavyapratap17/Bank-customers-churn-analysis)
 
 ---
 
